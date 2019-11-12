@@ -24,7 +24,7 @@
 	"require-dev": {
 		"nette/tester": "^2.0"
 	},
-	"minimum-stability": "dev",
+	"minimum-stability": "dev-master",
 	"config": {
 		"platform": {
 			"php": 5.6"
