@@ -1,6 +1,7 @@
 {
 	"name": "GitAlsan/NetteBlankBootstrap",
 	"description": "Nette: Standard Web Project",
+	"version": "1.0.0",
 	"keywords": ["nette"],
 	"type": "project",
 	"license": ["MIT", "BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
