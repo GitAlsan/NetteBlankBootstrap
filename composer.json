@@ -1,5 +1,5 @@
 {
-	"name": "nette/web-project",
+	"name": "GitAlsan/NetteBlankBootstrap",
 	"description": "Nette: Standard Web Project",
 	"keywords": ["nette"],
 	"type": "project",
@@ -24,10 +24,10 @@
 	"require-dev": {
 		"nette/tester": "^2.0"
 	},
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
 	"config": {
 		"platform": {
-			"php": 7.2"
+			"php": 5.6"
 		}
 	}
 }
