@@ -12,5 +12,6 @@ final class HomepagePresenter extends Nette\Application\UI\Presenter
         $this->template->jmeno = 'Tomáš Vlček';
         $this->template->vek = 42;
         $this->template->prezdivka = 'Vlčák';
+        $this->template->htmlText = 'Html <strong>text</strong><br> Novy radek.';
     }
 }
